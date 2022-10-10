@@ -1,0 +1,12 @@
+.titulo{
+    color: rgb(0, 0, 0);
+    font-size: 3rem;
+    text-align: center;
+    text-shadow: 0 0 10px rgb(82, 82, 82), 0 0 10px rgb(104, 104, 104), 0 0 10px #ff002271, 0 0 10px #ff002279,
+    0 0 30px #ff002279, 0 0 50px #ff00227c, 0 0 70px #ff002288;
+}
+
+.cabeza{
+    display: flex;
+    justify-content: center;;
+}
